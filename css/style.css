@@ -3,7 +3,7 @@
 }
 
 .jumbotron {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(8, 6, 6, 0.5);
     -webkit-backdrop-filter: blur(4px);
     backdrop-filter: blur(4px);  
 }
@@ -14,4 +14,9 @@
 
 .brand-icon {
     width: 100px;
+}
+.col-sm{
+    
+    background-color:black;
+
 }
